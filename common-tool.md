@@ -1,8 +1,8 @@
 ---
-description: Common Tool
+description: 常用工具
 ---
 
-# 常用工具
+# Common Tool
 
 ## WIKI
 
