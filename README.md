@@ -1,2 +1,2 @@
-# Initial page
+# 记者的舰娘笔记
 
