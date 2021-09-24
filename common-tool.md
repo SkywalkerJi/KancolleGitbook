@@ -6,11 +6,11 @@ description: 常用工具
 
 ## WIKI
 
-* [fandom wiki(English)](https://kancolle.fandom.com/wiki/KanColle_Wiki)
-* [kancolle wiki(English)](https://en.kancollewiki.net/Kancolle_Wiki)
-* [wikiwiki(Japanese)](https://wikiwiki.jp/kancolle/)
-* [舰娘百科(Chinese)](https://zh.kcwiki.cn/)
-* [萌娘百科-舰队Collection(Chinese)](https://zh.moegirl.org.cn/%E8%88%B0%E9%98%9FCollection)
+* [fandom wiki\(English\)](https://kancolle.fandom.com/wiki/KanColle_Wiki)
+* [kancolle wiki\(English\)](https://en.kancollewiki.net/Kancolle_Wiki)
+* [wikiwiki\(Japanese\)](https://wikiwiki.jp/kancolle/)
+* [舰娘百科\(Chinese\)](https://zh.kcwiki.cn/)
+* [萌娘百科-舰队Collection\(Chinese\)](https://zh.moegirl.org.cn/%E8%88%B0%E9%98%9FCollection)
 
 ## WEB
 
@@ -40,7 +40,7 @@ description: 常用工具
 * [POI](https://poi.moe/)
 * [七四式電子観測儀](http://electronicobserver.blog.fc2.com/)
 * [KanColle Command Center 改](https://chrome.google.com/webstore/detail/kancolle-command-center-%E6%94%B9/hkgmldnainaglpjngpajnnjfhpdjkohh)
- 
+
 ## Android
 
 * [Kcanotify](https://swaytwig.com/kcanotify/)
@@ -49,7 +49,7 @@ description: 常用工具
 ## iOS
 
 * [iKanColleCommand Tweaked Version](https://kc2tweaked.github.io/zh/)
- 
+
 ## POI Third-party Plugins
 
 * 士气速查 \(poi-plugin-mo2\)
@@ -79,3 +79,4 @@ description: 常用工具
 * [Kantai3D](https://github.com/laplamgor/kantai3d)
 * [KanCollResourceRedirect](https://bbs.nga.cn/read.php?tid=22561981)
 * [Cache](https://github.com/kcwiki/cache)
+
