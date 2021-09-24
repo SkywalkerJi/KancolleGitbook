@@ -6,20 +6,20 @@ description: 常用工具
 
 ## WIKI
 
-* [fandom wiki](https://kancolle.fandom.com/wiki/KanColle_Wiki)
-* [kancolle wiki](https://en.kancollewiki.net/Kancolle_Wiki)
-* [wikiwiki](https://wikiwiki.jp/kancolle/)
+* [fandom wiki(English)](https://kancolle.fandom.com/wiki/KanColle_Wiki)
+* [kancolle wiki(English)](https://en.kancollewiki.net/Kancolle_Wiki)
+* [wikiwiki(Japanese)](https://wikiwiki.jp/kancolle/)
+* [舰娘百科(Chinese)](https://zh.kcwiki.cn/)
+* [萌娘百科-舰队Collection(Chinese)](https://zh.moegirl.org.cn/%E8%88%B0%E9%98%9FCollection)
 
 ## WEB
 
 * [制空権シミュレータ](https://noro6.github.io/kcTools/)
 * [KCNav](https://kc.piro.moe/nav/#/)
 * [明石の改修工廠早見表](https://akashi-list.me/)
-* [KCNav](https://kc.piro.moe/nav/#/)
 * [開發工具](https://xn--uesr8qr0rdwk.cn/kc-development-tools/)
 * [远征工具箱 kancepts](https://javran.github.io/kancepts/)
 * [掉落计算器 Dropcalc](https://javran.github.io/dropcalc/ggfdfdfdfd)
-* [对潜计算 asw-calc](https://javran.github.io/asw-calc/)
 * [WhoCallsTheFleet-Yuubari](https://yuubari.fleet.moe/)
 * [WhoCallsTheFleet](http://fleet.diablohu.com/)
 * [poi-statistics](https://db.kcwiki.org/drop/)
@@ -27,7 +27,11 @@ description: 常用工具
 * [艦これ砲撃支援命中計算機](https://yuich1.github.io/kcHitTool/)
 * [Senka Viewer](https://senka.su/)
 * [試製對陸計算機一號乙型改五](https://dube116.github.io/installation-calculator/)
+* [对潜计算 asw-calc](https://javran.github.io/asw-calc/)
+* [虚像工廠改二](https://dsco11.web.fc2.com/)
 * [ダメージ計算機\(伤害\)](http://kancollecalc.jp/damage.html)
+* [艦これ 試製對陸計算機一號乙型改五](https://dube116.github.io/installation-calculator/)
+* [quests](https://tsunkit.net/quests/)
 * [任務](https://richelieu-manager.net/)
 * [萌萌数据库](https://moe-data.github.io/)
 
@@ -46,7 +50,7 @@ description: 常用工具
 
 * [iKanColleCommand Tweaked Version](https://kc2tweaked.github.io/zh/)
  
-## POI-plugin
+## POI Third-party Plugins
 
 * 士气速查 \(poi-plugin-mo2\)
 * 迷你战果 \(poi-plugin-mini-senka\)
@@ -72,4 +76,6 @@ description: 常用工具
 * [iKCCacheProxy](https://github.com/Tibowl/KCCacheProxy)
 * [KanColle English Patch](https://github.com/Oradimi/KanColle-English-Patch-KCCP)
 * [艦隊收藏中文化](https://github.com/ivon852/KanColle-Traditional-Chinese-Patch)
+* [Kantai3D](https://github.com/laplamgor/kantai3d)
+* [KanCollResourceRedirect](https://bbs.nga.cn/read.php?tid=22561981)
 * [Cache](https://github.com/kcwiki/cache)
