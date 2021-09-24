@@ -29,6 +29,7 @@ description: 常用工具
 * [試製對陸計算機一號乙型改五](https://dube116.github.io/installation-calculator/)
 * [ダメージ計算機\(伤害\)](http://kancollecalc.jp/damage.html)
 * [任務](https://richelieu-manager.net/)
+* [萌萌数据库](https://moe-data.github.io/)
 
 ## Browser
 
@@ -39,6 +40,7 @@ description: 常用工具
 ## Android
 
 * [Kcanotify](https://swaytwig.com/kcanotify/)
+* [GotoBrowser](https://github.com/antest1/GotoBrowser)
 
 ## iOS
 
@@ -64,3 +66,9 @@ description: 常用工具
 * 先制反潛 \(poi-plugin-antisub\)
 * 撈船統計 \(poi-plugin-statistic\)
 
+## MOD
+
+* [iKCCacheProxy](https://github.com/Tibowl/KCCacheProxy)
+* [KanColle English Patch](https://github.com/Oradimi/KanColle-English-Patch-KCCP)
+* [艦隊收藏中文化](https://github.com/ivon852/KanColle-Traditional-Chinese-Patch)
+* [Cache](https://github.com/kcwiki/cache)
