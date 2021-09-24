@@ -25,8 +25,10 @@ description: 常用工具
 * [poi-statistics](https://db.kcwiki.org/drop/)
 * [Jervis作戦室](https://kcjervis.github.io/jervis/#/)
 * [艦これ砲撃支援命中計算機](https://yuich1.github.io/kcHitTool/)
+* [らくらく支援艦隊](https://thisleaf.github.io/kancolle_support.html)
 * [Senka Viewer](https://senka.su/)
 * [試製對陸計算機一號乙型改五](https://dube116.github.io/installation-calculator/)
+* [制空争いシミュレータ](https://dque.github.io/seiku/)
 * [对潜计算 asw-calc](https://javran.github.io/asw-calc/)
 * [虚像工廠改二](https://dsco11.web.fc2.com/)
 * [ダメージ計算機\(伤害\)](http://kancollecalc.jp/damage.html)
@@ -50,7 +52,7 @@ description: 常用工具
 
 * [iKanColleCommand Tweaked Version](https://kc2tweaked.github.io/zh/)
 
-## POI Third-party Plugins
+## Poi Third-party Plugins
 
 * 士气速查 \(poi-plugin-mo2\)
 * 迷你战果 \(poi-plugin-mini-senka\)
@@ -71,7 +73,7 @@ description: 常用工具
 * 撈船統計 \(poi-plugin-statistic\)
 * poi-plugin-let-me-in
 
-## MOD
+## Mod
 
 * [iKCCacheProxy](https://github.com/Tibowl/KCCacheProxy)
 * [KanColle English Patch](https://github.com/Oradimi/KanColle-English-Patch-KCCP)
@@ -80,3 +82,7 @@ description: 常用工具
 * [KanCollResourceRedirect](https://bbs.nga.cn/read.php?tid=22561981)
 * [Cache](https://github.com/kcwiki/cache)
 
+## Guide
+
+* [梦美的常规图带路](https://bbs.nga.cn/read.php?tid=23451223)
+* [ぜかましねっと艦これ！](https://zekamashi.net/)
