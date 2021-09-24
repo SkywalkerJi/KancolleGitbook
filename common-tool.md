@@ -10,7 +10,7 @@ description: 常用工具
 * [kancolle wiki](https://en.kancollewiki.net/Kancolle_Wiki)
 * [wikiwiki](https://wikiwiki.jp/kancolle/)
 
-## 网站
+## WEB
 
 * [制空権シミュレータ](https://noro6.github.io/kcTools/)
 * [KCNav](https://kc.piro.moe/nav/#/)
@@ -30,7 +30,21 @@ description: 常用工具
 * [ダメージ計算機\(伤害\)](http://kancollecalc.jp/damage.html)
 * [任務](https://richelieu-manager.net/)
 
-## POI插件
+## Browser
+
+* [POI](https://poi.moe/)
+* [七四式電子観測儀](http://electronicobserver.blog.fc2.com/)
+* [KanColle Command Center 改](https://chrome.google.com/webstore/detail/kancolle-command-center-%E6%94%B9/hkgmldnainaglpjngpajnnjfhpdjkohh)
+ 
+## Android
+
+* [Kcanotify](https://swaytwig.com/kcanotify/)
+
+## iOS
+
+* [iKanColleCommand Tweaked Version](https://kc2tweaked.github.io/zh/)
+ 
+## POI-plugin
 
 * 士气速查 \(poi-plugin-mo2\)
 * 迷你战果 \(poi-plugin-mini-senka\)
