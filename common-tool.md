@@ -65,6 +65,7 @@ description: 常用工具
 * 查詢資料 \(poi-plugin-breed\)
 * 先制反潛 \(poi-plugin-antisub\)
 * 撈船統計 \(poi-plugin-statistic\)
+* poi-plugin-let-me-in
 
 ## MOD
 
