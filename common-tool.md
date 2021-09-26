@@ -72,6 +72,7 @@ description: 常用工具
 * 先制反潛 \(poi-plugin-antisub\)
 * 撈船統計 \(poi-plugin-statistic\)
 * poi-plugin-let-me-in
+* poi-plugin-tsundb
 
 ## Mod
 
@@ -87,3 +88,7 @@ description: 常用工具
 * [梦美的常规图带路](https://bbs.nga.cn/read.php?tid=23451223)
 * [ぜかましねっと艦これ！](https://zekamashi.net/)
 
+## Database
+
+* [TsunDB](https://tsundb.kc3.moe/)
+* [Poi](https://github.com/poooi/poi-server/wiki)
