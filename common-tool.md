@@ -74,6 +74,10 @@ description: 常用工具
 * poi-plugin-let-me-in
 * poi-plugin-tsundb
 
+## Software
+
+* [艦これ一覧めいかー改二](https://github.com/kanahiron/KanColleListMakerKaini)
+
 ## Mod
 
 * [iKCCacheProxy](https://github.com/Tibowl/KCCacheProxy)
