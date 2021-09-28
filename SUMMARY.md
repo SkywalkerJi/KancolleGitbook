@@ -11,4 +11,6 @@
 
 * [Twitter](https://twitter.com/Skywalker_Ji)
 * [Telegram](https://t.me/AdriaticSea)
+* [Twitch](https://www.twitch.tv/skywalkerji)
+* [YouTube](https://www.youtube.com/c/JiSkywalker)
 
