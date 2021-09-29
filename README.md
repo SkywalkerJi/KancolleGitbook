@@ -1,6 +1,12 @@
 ---
-description: 记者的舰娘笔记
+description: 施工中
 ---
 
-# SkywalkerJi's Kancolle Notes
+# 检证分支
+
+内容提供：168
+
+撰稿人：60
+
+
 
