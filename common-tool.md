@@ -85,6 +85,7 @@ description: 常用工具
 * [艦隊收藏中文化](https://github.com/ivon852/KanColle-Traditional-Chinese-Patch)
 * [Kantai3D](https://github.com/laplamgor/kantai3d)
 * [KanCollResourceRedirect](https://bbs.nga.cn/read.php?tid=22561981)
+* [看闪魔改](https://bbs.nga.cn/read.php?tid=28159193)
 * [Cache](https://github.com/kcwiki/cache)
 
 ## Guide
