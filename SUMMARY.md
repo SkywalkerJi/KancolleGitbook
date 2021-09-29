@@ -4,7 +4,7 @@
 * [我方船只](wo-fang-chuan-zhi/README.md)
   * [BB](wo-fang-chuan-zhi/bb.md)
   * [CV](wo-fang-chuan-zhi/cv.md)
-* [海防](hai-fang.md)
+  * [DE](wo-fang-chuan-zhi/de.md)
 * [我方装备](wo-fang-zhuang-bei/README.md)
   * [主炮](wo-fang-zhuang-bei/zhu-pao.md)
   * [反潜机](wo-fang-zhuang-bei/fan-qian-ji.md)
