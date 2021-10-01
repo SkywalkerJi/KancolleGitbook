@@ -60,7 +60,7 @@ $$
 
 ## 中口径昼战适重验证汇总
 
-![&#x4E2D;&#x53E3;&#x5F84;&#x663C;&#x6218;&#x9002;&#x91CD;&#x9A8C;&#x8BC1;&#x6C47;&#x603B;](../.gitbook/assets/image.png)
+![&#x4E2D;&#x53E3;&#x5F84;&#x663C;&#x6218;&#x9002;&#x91CD;&#x9A8C;&#x8BC1;&#x6C47;&#x603B;](../.gitbook/assets/image%20%281%29.png)
 
 ## 中口径轻巡炮隐藏火力补正
 
