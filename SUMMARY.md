@@ -39,4 +39,5 @@
 * [阵型研究](zhen-xing-yan-jiu.md)
 * [BUG相关](bug-xiang-guan.md)
 * [其他](qi-ta.md)
+* [更新日志](geng-xin-ri-zhi.md)
 

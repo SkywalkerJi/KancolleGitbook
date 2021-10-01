@@ -37,9 +37,5 @@ $$
 
 ### 装备补正
 
-
-
-{% embed url="https://bbs.nga.cn/read.php?&tid=24255368" caption="2020年夏~秋验证进展汇总" %}
-
-
+![&#x88C5;&#x5907;&#x8865;&#x6B63;](../.gitbook/assets/image%20%282%29.png)
 
