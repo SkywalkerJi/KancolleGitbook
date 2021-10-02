@@ -44,8 +44,6 @@ $$
 
 陸攻補正：陸攻 = 1.8、陸攻以外 = 1.0
 
-{% embed url="https://bbs.nga.cn/read.php?&tid=24255368" caption=" 2020年夏~秋验证进展汇总" %}
-
 ## 东海持有数与僚舰击沉期望计算
 
 {% embed url="https://bbs.nga.cn/read.php?tid=19864807" caption="东海持有数与僚舰击沉期望计算" %}
