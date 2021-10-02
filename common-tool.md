@@ -1,5 +1,5 @@
 ---
-description: 常用工具
+description: Kancolle 常用工具
 ---
 
 # Common Tool
