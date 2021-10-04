@@ -33,6 +33,7 @@ description: Kancolle 常用工具
 * [虚像工廠改二](https://dsco11.web.fc2.com/)
 * [ダメージ計算機\(伤害\)](http://kancollecalc.jp/damage.html)
 * [艦これ 試製對陸計算機一號乙型改五](https://dube116.github.io/installation-calculator/)
+* [輸送物資量\(TP\)計算機](https://thisleaf.github.io/kancolle_tp.html)
 * [quests](https://tsunkit.net/quests/)
 * [任務](https://richelieu-manager.net/)
 * [萌萌数据库](https://moe-data.github.io/)
