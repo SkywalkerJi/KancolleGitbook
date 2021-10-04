@@ -7,7 +7,7 @@
   * [DE](wo-fang-chuan-zhi/de.md)
 * [我方装备](wo-fang-zhuang-bei/README.md)
   * [主炮](wo-fang-zhuang-bei/zhu-pao.md)
-  * [反潜机](wo-fang-zhuang-bei/fan-qian-ji.md)
+  * [旋翼机](wo-fang-zhuang-bei/xuan-yi-ji.md)
   * [司令部](wo-fang-zhuang-bei/si-ling-bu.md)
   * [对陆](wo-fang-zhuang-bei/dui-lu/README.md)
     * [火箭弹](wo-fang-zhuang-bei/dui-lu/huo-jian-tan.md)
