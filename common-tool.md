@@ -6,9 +6,9 @@ description: Kancolle 常用工具
 
 ## WIKI
 
-* [fandom wiki\(English\)](https://kancolle.fandom.com/wiki/KanColle_Wiki)
-* [kancolle wiki\(English\)](https://en.kancollewiki.net/Kancolle_Wiki)
-* [wikiwiki\(Japanese\)](https://wikiwiki.jp/kancolle/)
+* [Fandom wiki\(English\)](https://kancolle.fandom.com/wiki/KanColle_Wiki)
+* [Kancolle wiki\(English\)](https://en.kancollewiki.net/Kancolle_Wiki)
+* [Wikiwiki\(Japanese\)](https://wikiwiki.jp/kancolle/)
 * [舰娘百科\(Chinese\)](https://zh.kcwiki.cn/)
 * [萌娘百科-舰队Collection\(Chinese\)](https://zh.moegirl.org.cn/%E8%88%B0%E9%98%9FCollection)
 
@@ -23,6 +23,7 @@ description: Kancolle 常用工具
 * [WhoCallsTheFleet-Yuubari](https://yuubari.fleet.moe/)
 * [WhoCallsTheFleet](http://fleet.diablohu.com/)
 * [poi-statistics](https://db.kcwiki.org/drop/)
+* [droptables](https://fourinone41.github.io/kancolle-replay/droptables.html)
 * [Jervis作戦室](https://kcjervis.github.io/jervis/#/)
 * [艦これ砲撃支援命中計算機](https://yuich1.github.io/kcHitTool/)
 * [らくらく支援艦隊](https://thisleaf.github.io/kancolle_support.html)
@@ -36,6 +37,7 @@ description: Kancolle 常用工具
 * [輸送物資量\(TP\)計算機](https://thisleaf.github.io/kancolle_tp.html)
 * [quests](https://tsunkit.net/quests/)
 * [任務](https://richelieu-manager.net/)
+* [遠征](https://docs.google.com/spreadsheets/d/1bKwHBxtQhNfxE4PAzYaFlbiO_soQTFi3dG1U4nh9njs)
 * [萌萌数据库](https://moe-data.github.io/)
 
 ## Browser
@@ -98,4 +100,4 @@ description: Kancolle 常用工具
 
 * [TsunDB](https://tsundb.kc3.moe/)
 * [Poi](https://github.com/poooi/poi-server/wiki)
-
+* [TeamFleet](https://github.com/TeamFleet)
