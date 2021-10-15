@@ -4,6 +4,7 @@
 * [Common Tool](common-tool.md)
 * [Update](update/README.md)
   * [9-28-2021](update/9-28-2021.md)
+  * [10-15-2021](update/10-15-2021.md)
 * [Sortie](sortie.md)
 * [Feature Article](feature-article.md)
 * [Subscribe](subscribe/README.md)
@@ -11,4 +12,3 @@
   * [Telegram](https://t.me/AdriaticSea)
   * [Twitch](https://www.twitch.tv/skywalkerji)
   * [YouTube](https://www.youtube.com/c/JiSkywalker)
-
