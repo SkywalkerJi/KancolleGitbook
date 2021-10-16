@@ -16,7 +16,7 @@ description: 艦娘簡化圖
 
 ## 駆逐艦改二特殊装備早見表
 
-![駆逐艦改二特殊装備早見表](<../.gitbook/assets/image (14).png>)
+![駆逐艦改二特殊装備早見表](<../.gitbook/assets/image (14) (1).png>)
 
 > [https://twitter.com/i/events/1093903882835550209](https://twitter.com/i/events/1093903882835550209)
 
@@ -42,7 +42,7 @@ description: 艦娘簡化圖
 
 ## 砲ｘ駆逐艦 装備ボーナス対応表
 
-![砲ｘ駆逐艦 装備ボーナス対応表1](<../.gitbook/assets/image (7).png>)
+![砲ｘ駆逐艦 装備ボーナス対応表1](<../.gitbook/assets/image (7) (1).png>)
 
 ![砲ｘ駆逐艦 装備ボーナス対応表2](<../.gitbook/assets/image (13).png>)
 
@@ -144,4 +144,26 @@ description: 艦娘簡化圖
 
 {% hint style="success" %}
 更新時間 10-17-2021 
+{% endhint %}
+
+## 改修成功率
+
+#### [akashi-list](https://akashi-list.me)
+
+![改修成功率](<../.gitbook/assets/image (7).png>)
+
+> [https://docs.google.com/spreadsheets/d/1wPUtvU9yG5Sf8MnTAp3kKOXyC5EeKUIJ_V5OCu27\_0c/edit#gid=524721121](https://docs.google.com/spreadsheets/d/1wPUtvU9yG5Sf8MnTAp3kKOXyC5EeKUIJ_V5OCu27\_0c/edit#gid=524721121)
+
+{% hint style="info" %}
+更新時間 2-16-2018
+{% endhint %}
+
+[**\_**ゆめみ](https://bbs.nga.cn/nuke.php?func=ucp\&uid=39227030) 
+
+![明石改修成功率表](<../.gitbook/assets/image (14).png>)
+
+> [https://bbs.nga.cn/read.php?pid=454450797\&opt=128](https://bbs.nga.cn/read.php?pid=454450797\&opt=128)
+
+{% hint style="success" %}
+更新時間 6-29-2021
 {% endhint %}
