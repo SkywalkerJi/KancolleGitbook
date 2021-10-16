@@ -148,20 +148,22 @@ description: 艦娘簡化圖
 
 ## 改修成功率
 
-#### [akashi-list](https://akashi-list.me)
-
 ![改修成功率](<../.gitbook/assets/image (7).png>)
 
-> [https://docs.google.com/spreadsheets/d/1wPUtvU9yG5Sf8MnTAp3kKOXyC5EeKUIJ_V5OCu27\_0c/edit#gid=524721121](https://docs.google.com/spreadsheets/d/1wPUtvU9yG5Sf8MnTAp3kKOXyC5EeKUIJ_V5OCu27\_0c/edit#gid=524721121)
+> [akashi-list](https://akashi-list.me)[https://docs.google.com/spreadsheets/d/1wPUtvU9yG5Sf8MnTAp3kKOXyC5EeKUIJ_V5OCu27\_0c/edit#gid=524721121](https://docs.google.com/spreadsheets/d/1wPUtvU9yG5Sf8MnTAp3kKOXyC5EeKUIJ_V5OCu27\_0c/edit#gid=524721121)
 
 {% hint style="info" %}
-更新時間 2-16-2018
+更新時間 2-16-2018 
 {% endhint %}
 
-[**\_**ゆめみ](https://bbs.nga.cn/nuke.php?func=ucp\&uid=39227030) 
+![明石改修成功率 早見表](<../.gitbook/assets/image (21).png>)
 
-![明石改修成功率表](<../.gitbook/assets/image (14).png>)
+{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vSzdXcDV7_sVXILsmf5KcvwkbSU4TzlLaA_u6zLRiXNxzMw5UhxzbBQfMmz2Ix4j2o8RT69ReZOc-vq/pubchart?format=interactive&oid=1843170363" %}
+互動式表格
+{% endembed %}
 
+> Data Source：
+>
 > [https://bbs.nga.cn/read.php?pid=454450797\&opt=128](https://bbs.nga.cn/read.php?pid=454450797\&opt=128)
 
 {% hint style="success" %}
