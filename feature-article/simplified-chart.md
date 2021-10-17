@@ -26,23 +26,23 @@ description: 艦娘簡化圖
 
 ## 駆逐艦 特殊性能早見表（大発・対潜・夜戦）
 
-![駆逐艦 特殊性能早見表1](<../.gitbook/assets/image (20).png>)
+![駆逐艦 特殊性能早見表（大発・対潜・夜戦） 1](<../.gitbook/assets/image (10).png>)
 
-![駆逐艦 特殊性能早見表2](<../.gitbook/assets/image (8).png>)
+![駆逐艦 特殊性能早見表（大発・対潜・夜戦） 2](<../.gitbook/assets/image (11).png>)
 
-![駆逐艦 特殊性能早見表3](<../.gitbook/assets/image (10).png>)
+![駆逐艦 特殊性能早見表（大発・対潜・夜戦） 3](<../.gitbook/assets/image (22).png>)
 
-![駆逐艦 特殊性能早見表4](<../.gitbook/assets/image (9).png>)
+![駆逐艦 特殊性能早見表（大発・対潜・夜戦） 4](<../.gitbook/assets/image (7).png>)
 
-> [https://twitter.com/Style\_0ne/status/1442829386856615942](https://twitter.com/Style\_0ne/status/1442829386856615942)
+> [https://twitter.com/Style\_0ne/status/1449587634485956608](https://twitter.com/Style\_0ne/status/1449587634485956608)
 
-{% hint style="info" %}
-更新時間 9-28-2020
+{% hint style="success" %}
+更新時間 10-17-2020
 {% endhint %}
 
 ## 砲ｘ駆逐艦 装備ボーナス対応表
 
-![砲ｘ駆逐艦 装備ボーナス対応表1](<../.gitbook/assets/image (7) (1).png>)
+![砲ｘ駆逐艦 装備ボーナス対応表1](<../.gitbook/assets/image (7) (1) (1).png>)
 
 ![砲ｘ駆逐艦 装備ボーナス対応表2](<../.gitbook/assets/image (13).png>)
 
@@ -80,7 +80,7 @@ description: 艦娘簡化圖
 
 > [https://twitter.com/majin_poporunta/status/1129616583393914880](https://twitter.com/majin_poporunta/status/1129616583393914880)
 
-{% hint style="success" %}
+{% hint style="warning" %}
 更新時間 5-18-2019
 {% endhint %}
 
@@ -112,7 +112,7 @@ description: 艦娘簡化圖
 
 ## 戦艦特殊攻撃表
 
-![戦艦特殊攻撃表](<../.gitbook/assets/image (22).png>)
+![戦艦特殊攻撃表](<../.gitbook/assets/image (22) (1).png>)
 
 > [https://twitter.com/yukicacoon/status/1449246144752603145](https://twitter.com/yukicacoon/status/1449246144752603145)
 
@@ -148,7 +148,7 @@ description: 艦娘簡化圖
 
 ## 改修成功率
 
-![改修成功率](<../.gitbook/assets/image (7).png>)
+![改修成功率](<../.gitbook/assets/image (7) (1).png>)
 
 > [akashi-list](https://akashi-list.me)[https://docs.google.com/spreadsheets/d/1wPUtvU9yG5Sf8MnTAp3kKOXyC5EeKUIJ_V5OCu27\_0c/edit#gid=524721121](https://docs.google.com/spreadsheets/d/1wPUtvU9yG5Sf8MnTAp3kKOXyC5EeKUIJ_V5OCu27\_0c/edit#gid=524721121)
 
