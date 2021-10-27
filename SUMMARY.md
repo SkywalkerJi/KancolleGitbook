@@ -8,6 +8,7 @@
 * [Update](update/README.md)
   * [9-28-2021](update/9-28-2021.md)
   * [10-15-2021](update/10-15-2021.md)
+  * [10-29-2021](update/10-29-2021.md)
 * [Sortie](sortie.md)
 * [Feature Article](feature-article/README.md)
   * [Simplified Chart](feature-article/simplified-chart.md)
