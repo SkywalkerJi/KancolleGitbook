@@ -2,6 +2,9 @@
 
 * [SkywalkerJi's Kancolle Notes](README.md)
 * [Common Tool](common-tool.md)
+* [Events](events/README.md)
+  * [2021 Mackerel Pike Fishing](events/2021-mackerel-pike-fishing.md)
+  * [Fall 2021 Event](events/fall-2021-event.md)
 * [Update](update/README.md)
   * [9-28-2021](update/9-28-2021.md)
   * [10-15-2021](update/10-15-2021.md)
@@ -9,7 +12,7 @@
 * [Feature Article](feature-article/README.md)
   * [Simplified Chart](feature-article/simplified-chart.md)
 * [Subscribe](subscribe/README.md)
-  * [Twitter](https://twitter.com/Skywalker_Ji)
+  * [Twitter](https://twitter.com/Skywalker\_Ji)
   * [Telegram](https://t.me/AdriaticSea)
   * [Twitch](https://www.twitch.tv/skywalkerji)
   * [YouTube](https://www.youtube.com/c/JiSkywalker)
