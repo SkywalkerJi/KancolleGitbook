@@ -8,3 +8,8 @@ description: 记者的舰娘笔记
 
 {% embed url="https://t.me/KancolleRTA_bot" %}
 
+{% embed url="https://github.com/SkywalkerJi/KancolleGitbook" %}
+项目地址
+{% endembed %}
+
+[CC-BY-SA-4.0 License](LICENSE)
