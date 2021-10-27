@@ -12,6 +12,7 @@
 * [Sortie](sortie.md)
 * [Feature Article](feature-article/README.md)
   * [Simplified Chart](feature-article/simplified-chart.md)
+  * [Dark Mode](feature-article/dark-mode.md)
 * [Subscribe](subscribe/README.md)
   * [Twitter](https://twitter.com/Skywalker\_Ji)
   * [Telegram](https://t.me/AdriaticSea)
