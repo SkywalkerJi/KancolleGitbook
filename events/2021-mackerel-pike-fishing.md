@@ -4,6 +4,14 @@ description: 2021 帰ってきた鎮守府秋刀魚祭り
 
 # 2021 Mackerel Pike Fishing
 
+{% hint style="info" %}
+建議先看E1再回來查本文，不用把時間浪費在研究“去哪撈”，“如何撈”上。E1可以解決你的全部問題。
+{% endhint %}
+
+{% content-ref url="e1.md" %}
+[e1.md](./fall-2021-event/e1.md)
+{% endcontent-ref %}
+
 {% hint style="warning" %}
 本文目前部分内容根據過往活動推斷，對本次活動有參考價值，但不一定符合現實情況。
 {% endhint %}
