@@ -6,22 +6,10 @@ description: 2021 秋活
 
 ## 活动海域
 
-## 活动任務链
+{% content-ref url="../events/fall-2021-event/e1.md" %}
+[e1.md](../events/fall-2021-event/e1.md)
+{% endcontent-ref %}
 
-### 任务1
-
-#### 條件
-
-* [ ] 
-
-#### 一句話配置
-
-* 
-
-#### 獎勵
-
-|        | 選項1 | 選項2 | 選項3 |
-| ------ | ----- | ----- | ----- |
-| 三選一 |       |       |       |
-
-油，彈，鋼，鋁
+{% content-ref url="../events/fall-2021-event/e2.md" %}
+[e2.md](../events/fall-2021-event/e2.md)
+{% endcontent-ref %}
