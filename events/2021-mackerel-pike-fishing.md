@@ -96,7 +96,7 @@ description: 2021 帰ってきた鎮守府秋刀魚祭り
 * 存疑裝備不建議使用，除非其他配額全部用完。
 
 {% hint style="info" %}
-更多搭載情況可查詢 [WhoCallsTheFleet-Yuubari](https://yuubari.fleet.moe)
+詳細搭載情況可查詢 [WhoCallsTheFleet-Yuubari](https://yuubari.fleet.moe)
 {% endhint %}
 
 ### 🐟過度捕撈
