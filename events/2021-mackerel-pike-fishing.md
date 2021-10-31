@@ -225,6 +225,7 @@ Swordfish Mk.III(熟練)為17夏關底甲級獎勵。
 
 ## 參考鏈接
 
-https://wikiwiki.jp/kancolle/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E5%B8%B0%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E9%8E%AE%E5%AE%88%E5%BA%9C%E7%A7%8B%E5%88%80%E9%AD%9A%E7%A5%AD%E3%82%8A
-
-https://bbs.nga.cn/read.php?tid=29203505
+>https://wikiwiki.jp/kancolle/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/>%E5%B8%B0%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E9%8E%AE%E5%AE%88%E5%BA%9C%E7%A7%8B%E5%88%80%E9%AD%9A%E7%A5%AD%E3%82%8A
+>
+>https://bbs.nga.cn/read.php?tid=29203505
+>
