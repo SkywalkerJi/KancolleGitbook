@@ -50,17 +50,20 @@ description: 2021 帰ってきた鎮守府秋刀魚祭り
 | E1   | I,J,**M**,<mark style="color:red;">N</mark>,P,<mark style="color:red;">R</mark> | 非常推薦 | 高   | 判定多，海防+馬路油 |
 
 * 紅色代表Boss點，加粗代表A勝也可以掉落。
+* E1甲難度全圖🐟掉率高於其他難度。
 
 {% hint style="info" %}
 推薦直接在E1-2進行撈🐟，不需要常規圖。
 {% endhint %}
 
 {% hint style="info" %}
-詳細掉率可參考往年poi統計
+詳細掉率可參考poi統計
 
-[2018年秋刀鱼祭典](https://db.kcwiki.org/event-sanma2018/)
+* [2021年秋刀鱼祭典](https://db.kcwiki.org/event-autumn2021/)
 
-[2019年秋刀鱼祭典](https://db.kcwiki.org/event-sanma2019/)
+* [2018年秋刀鱼祭典](https://db.kcwiki.org/event-sanma2018/)
+
+* [2019年秋刀鱼祭典](https://db.kcwiki.org/event-sanma2019/)
 {% endhint %}
 
 ## 🐟掉率影響因素
