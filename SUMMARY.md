@@ -15,6 +15,7 @@
   * [探照灯](wo-fang-zhuang-bei/tan-zhao-deng.md)
   * [机枪](wo-fang-zhuang-bei/ji-qiang.md)
   * [水听](wo-fang-zhuang-bei/shui-ting.md)
+  * [爆雷](wo-fang-zhuang-bei/bao-lei.md)
   * [舰载机](wo-fang-zhuang-bei/jian-zai-ji/README.md)
     * [喷气机](wo-fang-zhuang-bei/jian-zai-ji/pen-qi-ji.md)
     * [夜攻](wo-fang-zhuang-bei/jian-zai-ji/ye-gong.md)
