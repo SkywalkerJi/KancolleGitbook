@@ -133,7 +133,7 @@ description: 2021 帰ってきた鎮守府秋刀魚祭り
 秋刀魚漁支援講座2021年改 前篇 中文字幕
 {% endembed %}
 
-{% embed url="https://www.youtube.com/watch?v=zroite9QI1w" %}
+{% embed url="https://www.youtube.com/watch?v=bVgZkF6Bvg0" %}
 秋刀魚漁支援講座2021年改 後編 中文字幕
 {% endembed %}
 
