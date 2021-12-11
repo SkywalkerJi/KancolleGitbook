@@ -13,6 +13,7 @@
   * [10-15-2021](update/10-15-2021.md)
   * [10-29-2021](update/10-29-2021.md)
   * [11-19-2021](update/11-19-2021.md)
+  * [12-10-2021](update/12-10-2021.md)
 * [Sortie](sortie.md)
 * [Feature Article](feature-article/README.md)
   * [Simplified Chart](feature-article/simplified-chart.md)
