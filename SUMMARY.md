@@ -15,6 +15,7 @@
   * [11-19-2021](update/11-19-2021.md)
   * [12-10-2021](update/12-10-2021.md)
   * [12-28-2021](update/12-28-2021.md)
+  * [1-1-2022](update/1-1-2022.md)
 * [Sortie](sortie.md)
 * [Feature Article](feature-article/README.md)
   * [Simplified Chart](feature-article/simplified-chart.md)
