@@ -43,8 +43,9 @@ description: Kancolle 常用工具
 ## Browser
 
 * [POI](https://poi.moe)
-* [七四式電子観測儀](http://electronicobserver.blog.fc2.com)
 * [KanColle Command Center 改](https://chrome.google.com/webstore/detail/kancolle-command-center-%E6%94%B9/hkgmldnainaglpjngpajnnjfhpdjkohh)
+* [Electronic Observer](https://github.com/gre4bee/ElectronicObserver)
+* [七四式電子観測儀（サポート終了）](http://electronicobserver.blog.fc2.com)
 
 ## Android
 
