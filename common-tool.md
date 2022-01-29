@@ -76,6 +76,7 @@ description: Kancolle 常用工具
 * 撈船統計 (poi-plugin-statistic)
 * poi-plugin-let-me-in
 * poi-plugin-tsundb
+* Next Door(poi-plugin-next-door)
 
 ## Software
 
