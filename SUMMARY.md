@@ -12,6 +12,7 @@
     * [E1](events/winter-2022-event/e1.md)
     * [E2](events/winter-2022-event/e2.md)
     * [E3](events/winter-2022-event/e3.md)
+  * [Spring 2022 Event](events/spring-2022-event/README.md)
 * [Update](update/README.md)
   * [9-28-2021](update/9-28-2021.md)
   * [10-15-2021](update/10-15-2021.md)
